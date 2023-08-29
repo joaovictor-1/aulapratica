@@ -1,0 +1,29 @@
+.quadrado{
+    border: 3px solid black;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    background-color: blueviolet;
+    position: absolute;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.quadrado2{ 
+    right: 0px;
+    bottom: 0px;
+    background-color:coral
+
+}
+
+.quadrado3{
+    bottom: 0px;
+    left: 0px;
+    background-color: cornflowerblue;
+
+}
+
+.quadrado4{
+    right:0px;
+    top:0px;
+    background-color: lightslategray;
+}

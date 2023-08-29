@@ -1,0 +1,23 @@
+.imagem{
+    background:url(OIP.jpg)no-repeat;
+    border: 0px;
+    margin: 100px;
+    width: 200px;
+    height: 200px;
+
+    display: block;
+    background-size: contain;
+
+
+
+}
+
+.imagem:hover{
+      background-position: 0px 50px;
+
+}
+ .imagem:active{
+
+background-position: : 0px 50px;
+
+ }
